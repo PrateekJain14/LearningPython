@@ -6,7 +6,7 @@ menu.append(["eggs", "bacon", "spam"])
 menu.append(["eggs", "bacon", "sausage", "spam"])
 menu.append(["spam", "bacon", "sausage", "spam"])
 menu.append(["spam", "eggs", "spam", "spam", "bacon", "spam"])
-menu.append(["spam", "eggs", "sausage", "spam"])
+menu.append(["spam", "eggs", "animal", "spam"])
 
 for meal in menu:
     if "spam" not in meal:

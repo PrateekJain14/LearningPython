@@ -1,7 +1,7 @@
-# my_list = ["a", "b", "c", "d"]
-# new_string = ""
-# new_string = ",".join(my_list)
-# print(new_string)
+my_list = ["a", "b", "c", "d"]
+new_string = ""
+new_string = ",".join(my_list)
+print(new_string)
 
 
 location = {0: "You are sitting in front of computer learning python",

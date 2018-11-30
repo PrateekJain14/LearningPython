@@ -97,6 +97,7 @@ def load_data():
             year_field = int(year_field)
             print(artist_field, album_field, year_field, song_field)
 
+
 if __name__ == "__main__":
     load_data()
 
